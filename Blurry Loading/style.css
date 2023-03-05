@@ -17,10 +17,10 @@ body {
 .bg {
     background: url("https://cdn.discordapp.com/attachments/1061750202878414879/1068260050063331449/Mustrovski_RealisticHyperrealisticNikeSneakersMarrakechZelligKa_233ca89d-44a4-4c43-bc2e-f004d52990c9.png") no-repeat center center/cover;
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
+    top: -30px;
+    left: -30px;
+    width: calc(100% + 60px);
+    height: calc(100% + 60px);
     z-index: -1;
     filter: blur(0px);
 }
