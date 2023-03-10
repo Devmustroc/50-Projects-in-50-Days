@@ -2,7 +2,7 @@
 
 This is a repository for the "50 Projects in 50 Days" course by Brad Traversy and Florin Pop on Udemy.
 
-![50 Projects in 50 Days Screenshot](https://example.com/50-projects-screenshot.png)
+![50 Projects in 50 Days Screenshot](https://swifnix.com/wp-content/uploads/2020/10/banner_html_css-1024x480.jpg)
 
 ## Overview
 
